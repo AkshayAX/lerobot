@@ -13,7 +13,6 @@
 # limitations under the License.
 
 ### Environments & Dependencies ###
-.env
 .venv
 env/
 venv/
@@ -89,7 +88,6 @@ celerybeat.pid
 
 ### IDE & Editor Config ###
 # VS Code
-.vscode/
 .devcontainer/
 
 # JetBrains / PyCharm
@@ -176,3 +174,4 @@ outputs/
 *.urdf
 *.xml
 *.part
+config.bat
